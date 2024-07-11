@@ -1,10 +1,11 @@
 # sql-challenge Using PostgreSQL
-
+--------------------------------------------------------------------------------------------------------------------
 This repository consists of a challenge in which I created:
+--------------------------------------------------------------------------------------------------------------------
 
-An ERD (Entity Relationship Diagram using QuickDB online APP)
-A SCHEMA sql file based on that ERD
-A Query sql file to answer questions for Analysis
+ An ERD (Entity Relationship Diagram using QuickDB online APP) <br/>
+ A SCHEMA sql file based on that ERD <br/>
+ A Query sql file to answer questions for Analysis <br/>
 --------------------------------------------------------------------------------------------------------------------
 All the data for the tables are included in data folder:
 -------------------------------------------------------------------------------------------------------------------
