@@ -5,15 +5,16 @@ This repository consists of a challenge in which I created:
 An ERD (Entity Relationship Diagram using QuickDB online APP)
 A SCHEMA sql file based on that ERD
 A Query sql file to answer questions for Analysis
-
+--------------------------------------------------------------------------------------------------------------------
 All the data for the tables are included in data folder:
+-------------------------------------------------------------------------------------------------------------------
     - departments.csv
     - dept_emp.csv
     - dept_manager.csv
     - employees.csv
     - salaries.csv
     - titles.csv
---------------------------------------------------------------------------------------------------------------------
+
 
 This Challenge is divided in three parts: data modeling, data engineering, and data analysis.
 
